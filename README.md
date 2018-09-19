@@ -1,1 +1,1 @@
-# Corewa_Release
+# Corewar_Release
