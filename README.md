@@ -15,9 +15,9 @@ The programs are loaded in the same memory buffer (4096 Octets) in order to spac
 After CYCLE_TO_DIE cycles, the VM must make sure every process has performed at least one live instruction since the last check. A process that does not subject to this rule will be put to death. When there is no more process alive, the game is over. The winner is the last player reported to be alive.
 
 **Usage:**
-*./corewar [-dump N -n N -verbose...] <chp.cor> <...>*
-         ***-dump N :*** Dumps memory after N cycles then exits.
-         ***-verbose:*** Display execution log and cycles.
+*./corewar [-dump N -n N -verbose...] <chp.cor> <...>* <br>
+         ***-dump N :*** Dumps memory after N cycles then exit. <br>
+         ***-verbose:*** Display execution log and cycles.<br>
          ***-n N:*** Fix next champion number (N).
          ***-render:*** Display graphic render.
 
