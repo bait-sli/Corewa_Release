@@ -26,4 +26,4 @@ After CYCLE_TO_DIE cycles, the VM must make sure every process has performed at 
 	     ***SPACE:*** Run game.
 	     ***P:*** Pause game.
 	     
-![enter image description here](https://github.com/bait-sli/Corewa_Release/blob/master/render.gif?raw=true)
+![enter image description here](https://github.com/bait-sli/Corewar_Release/blob/master/render.gif?raw=true)
